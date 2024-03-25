@@ -1,0 +1,51 @@
+[
+  {
+    "nome": "Vinicius",
+    "sobrenome": "Bueno",
+    "idade": 22,
+    "proficao": "Dev",
+    "detalhe_profissao": {
+      "profissao": "Programador",
+      "empresa": "Ncc Grup"
+    },
+    "hobbies": ["Futebol", "Academia"]
+  },
+
+  {
+    "nome": "Luiz",
+    "sobrenome": "Neto",
+    "idade": 22,
+    "proficao": "Dev",
+    "detalhe_profissao": {
+      "profissao": "Programador",
+      "empresa": "Ncc Grup"
+    },
+    "hobbies": ["Futebol", "Academia", "Balada"]
+  },
+
+  {
+    "nome": "Gabriela",
+    "sobrenome": "Leonel",
+    "idade": 24,
+    "proficao": "Dev",
+    "detalhe_profissao": {
+      "profissao": "Programador",
+      "empresa": "Ncc Grup"
+    },
+    "hobbies": ["Futebol", "Musica", "Games"]
+  },
+
+  {
+    "nome": "Nicole",
+    "sobrenome": "Pereira",
+    "idade": 20,
+    "proficao": "Dev",
+    "detalhe_profissao": {
+      "profissao": "Programador",
+      "empresa": "Ncc Grup"
+    },
+    "hobbies": ["Anime", "Academia", "Musica"]
+  }
+
+
+]
